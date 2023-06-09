@@ -1,5 +1,5 @@
 <h2> 👋  Hi, I'm Shokooh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://i.giphy.com/media/BemKqR9RDK4V2/giphy.webp" alt="Avatar" width="230" >
+<img align='right' src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Avatar" width="230" >
 <p><em>.Net developer </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
