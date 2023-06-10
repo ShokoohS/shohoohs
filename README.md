@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin:shokooh](https://img.shields.io/badge/-shokoohsaboori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shokooh-saboori-developer/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin:shokooh](https://img.shields.io/badge/-shokoohsaboori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shokooh-saboori-developer/)](https://www.linkedin.com/in/shokooh-saboori-developer/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
